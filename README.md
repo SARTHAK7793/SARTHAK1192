@@ -1,4 +1,3 @@
 # SARTHAK1192
-This is my first Git Repository
-<Br>
+This is my first HTML code <br>
 SARTHAK
